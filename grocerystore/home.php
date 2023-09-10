@@ -133,7 +133,7 @@ if(isset($_POST['add_to_cart'])){
       <div class="box">
          <img src="images/flowe-3.png" alt="">
          <h3>lily</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
+         <p>Lorem ipsum</p>
          <a href="category.php?category=vegitables" class="btn">vegitables</a>
       </div>
 
