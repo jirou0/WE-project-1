@@ -140,7 +140,7 @@ if(isset($_POST['add_to_cart'])){
       <div class="box">
          <img src="images/cat-4.jpg" alt="">
          <h3>pride</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
+         <p>Lorem ipsum</p>
          <a href="category.php?category=fish" class="btn">fish</a>
       </div>
 
