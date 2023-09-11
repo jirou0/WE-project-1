@@ -100,8 +100,8 @@ if(isset($_POST['add_to_cart'])){
    <section class="home">
 
       <div class="content">
-         <span>don't panic, go organice</span>
-         <h3>Reach For A Healthier You With Organic Foods</h3>
+         <span>your answer for flower problem!</span>
+         <h3>Reach For A Professional Florist.</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto natus culpa officia quasi, accusantium explicabo?</p>
          <a href="about.php" class="btn">about us</a>
       </div>
@@ -117,31 +117,31 @@ if(isset($_POST['add_to_cart'])){
    <div class="box-container">
 
       <div class="box">
-         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taguigflowers.com%2F9-pcs-white-tulips-in-a-bouquet.html&psig=AOvVaw0YTFGH7kli6TAebSvTgreI&ust=1694412819110000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjLleaxn4EDFQAAAAAdAAAAABAE" alt="">
-         <h3>tulips</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=fruits" class="btn"></a>
+         <img src="https://res.cloudinary.com/dcupwzy3m/image/upload/v1694429029/WE-products/4668dede86c24cc98a0b865725f5be80_hexjop.jpg" alt="">
+         <h3>fresh flowers</h3>
+         <p>Fresh flower are flowers and flower buds (often with some stem and leaf) that have been cut from the plant bearing it. It is removed from the plant for decorative use. </p>
+         <a href="category.php?category=fresh" class="btn">fresh</a>
       </div>
 
       <div class="box">
-         <img src="images/cat-2.png" alt="">
-         <h3>rose</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=meat" class="btn">meat</a>
+         <img src="https://res.cloudinary.com/dcupwzy3m/image/upload/v1694428910/WE-products/fda990a566ae80403b29549052c4e2f0_ji1kzm.jpg" alt="">
+         <h3>dried flower</h3>
+         <p>dried flower are perfect for those who don't like to replace water or hates when flower wilt and die.</p>
+         <a href="category.php?category=dried" class="btn">dried</a>
       </div>
 
       <div class="box">
-         <img src="images/flowe-3.png" alt="">
-         <h3>lily</h3>
-         <p>Lorem ipsum</p>
-         <a href="category.php?category=vegitables" class="btn">vegitables</a>
+         <img src="https://res.cloudinary.com/dcupwzy3m/image/upload/v1694428898/WE-products/5ccebc38c6b939c7c909072935bf5d77_ws7yna.jpg" alt="">
+         <h3>bouquet</h3>
+         <p>a group of flowers that have been attractively arranged so that they can be given as a present or carried on a formal occasion.</p>
+         <a href="category.php?category=bouquet" class="btn">bouquet</a>
       </div>
 
       <div class="box">
-         <img src="images/cat-4.jpg" alt="">
-         <h3>pride</h3>
-         <p>Lorem ipsum</p>
-         <a href="category.php?category=fish" class="btn">fish</a>
+         <img src="https://res.cloudinary.com/dcupwzy3m/image/upload/v1694428812/WE-products/19238bb1f5cf77236b4667f6cad0e851_u18hyx.jpg" alt="">
+         <h3>flower seed</h3>
+         <p>he seed of a herbaceous plant grown for its bloom, ornamental foliage, or other ornamental part.</p>
+         <a href="category.php?category=seed" class="btn">seed</a>
       </div>
 
    </div>
@@ -196,4 +196,3 @@ if(isset($_POST['add_to_cart'])){
 
 </body>
 </html>
-

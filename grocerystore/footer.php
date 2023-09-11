@@ -20,10 +20,10 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
-         <p> <i class="fas fa-phone"></i> +111-222-3333 </p>
-         <p> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </p>
-         <p> <i class="fas fa-map-marker-alt"></i> mumbai, india - 400104 </p>
+         <p> <i class="fas fa-phone"></i> +62 8123456789 </p>
+         <p> <i class="fas fa-phone"></i> +62 8987654321 </p>
+         <p> <i class="fas fa-envelope"></i> WE.mercubuana@gmail.com </p>
+         <p> <i class="fas fa-map-marker-alt"></i> Jakarta, Indonesia </p>
       </div>
 
       <div class="box">
@@ -35,7 +35,5 @@
       </div>
 
    </section>
-
-   <p class="credit"> &copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved! </p>
 
 </footer>
